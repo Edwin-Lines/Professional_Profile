@@ -1,4 +1,4 @@
-
+# !/usr/bin/bash
 sudo systemctl stop nginx
 
 cd /var/www/html/Professional_Profile
